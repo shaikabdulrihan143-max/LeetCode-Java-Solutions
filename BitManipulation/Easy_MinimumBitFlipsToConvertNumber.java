@@ -1,4 +1,4 @@
-class Solution {
+class Easy_MinimumBitFlipsToConvertNumber {
     public int minBitFlips(int start, int goal) {
         int ans=start^goal;
         int bitflips=0;
