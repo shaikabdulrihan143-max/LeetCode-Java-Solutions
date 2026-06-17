@@ -1,4 +1,4 @@
-class Medium_FindFirstAndLastPositionOfElementInSortedArray {
+class Solution {
     int ans[]=new int[2];
     public int findFirstOccurence(int nums[],int target){
         int first=-1;
