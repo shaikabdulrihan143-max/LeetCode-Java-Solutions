@@ -1,4 +1,4 @@
-class Hard_N-Queens {
+class Solution {
     public boolean isSafe(char [][]solution,int row,int col){
         //horizonntal
         for(int c=0;c<solution.length;c++){
