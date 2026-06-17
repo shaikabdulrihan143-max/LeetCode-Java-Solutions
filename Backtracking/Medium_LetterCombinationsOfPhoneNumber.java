@@ -1,4 +1,4 @@
-class Medium_LetterCombinationsOfPhoneNumber {
+class Solution {
     public String keypad[]={"abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
     public void helper(String digits,List<String> ans,String combination,int idx){
         if(idx==digits.length()){
