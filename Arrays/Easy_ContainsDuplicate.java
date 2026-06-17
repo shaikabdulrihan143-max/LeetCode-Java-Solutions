@@ -1,5 +1,4 @@
-import java.util.*;
-class Easy_ContainsDuplicate {
+class Solution {
     public boolean containsDuplicate(int[] nums) {
         boolean flag=false;
         Arrays.sort(nums);
