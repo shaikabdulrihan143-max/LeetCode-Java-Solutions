@@ -1,4 +1,4 @@
-class Hard_CountOfSmallerNumbersAfterSelf {
+class Solution {
     int count[];
     int index[];
     public void merge(int nums[],int si,int mid,int ei){
