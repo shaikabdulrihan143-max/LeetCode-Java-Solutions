@@ -1,4 +1,4 @@
-class Medium_SortAnArray {
+class Solution {
     public void merge(int nums[],int si,int mid,int ei){
         int newArray[]=new int[ei+1-si];
         int idx=0;
