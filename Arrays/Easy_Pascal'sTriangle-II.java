@@ -1,4 +1,4 @@
-class Easy_Pascal'sTriangle-II {
+class Solution {
     public List<Integer> getRow(int rowIndex) {
         List<Integer> ans=new ArrayList<>();
         long num=1;
