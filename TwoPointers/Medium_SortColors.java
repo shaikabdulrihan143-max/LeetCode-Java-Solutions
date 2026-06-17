@@ -1,4 +1,4 @@
-class Easy_SortColors {
+class Solution {
     public void sort(int nums[],int si,int ei){
         if(si>=ei){
             return;
