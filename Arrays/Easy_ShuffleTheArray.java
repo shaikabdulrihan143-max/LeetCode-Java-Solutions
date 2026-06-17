@@ -1,4 +1,4 @@
-class Easy_ShuffleTheArray {
+class Solution {
     public int[] shuffle(int[] nums, int n) {
         int ans[]=new int[2*n];
         int idx=0;
