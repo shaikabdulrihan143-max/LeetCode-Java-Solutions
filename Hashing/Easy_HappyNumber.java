@@ -1,4 +1,4 @@
-class Easy_HappyNumber {
+class Solution {
     public boolean helper(int n,HashSet<Integer> set){
         if(n==1){
             return true;
