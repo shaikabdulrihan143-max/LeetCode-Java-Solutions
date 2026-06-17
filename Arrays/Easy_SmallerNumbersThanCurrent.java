@@ -1,4 +1,4 @@
-class Easy_SmallerNumbersThanCurrent {
+class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
         int ans[]=new int[nums.length];
         int count=0;
