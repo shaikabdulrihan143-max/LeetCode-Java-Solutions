@@ -1,4 +1,4 @@
-class Easy_ConcatenationOfArray {
+class Solution {
     public int[] getConcatenation(int[] nums) {
         int ans[]=new int[2*nums.length];
         int idx=0;
