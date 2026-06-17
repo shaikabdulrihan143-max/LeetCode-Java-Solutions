@@ -1,4 +1,4 @@
-class Easy_ValidPalindrome {
+class Solution {
     public boolean isPalindrome(String s) {
         String newString=s.toLowerCase().replaceAll("[^a-z0-9]","");
         String reverseString="";
