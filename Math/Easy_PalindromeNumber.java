@@ -1,4 +1,4 @@
-class Easy_PalindromeNumber {
+class Solution {
     public boolean isPalindrome(int x) {
         int d,rev=0;
         int n=x;
