@@ -1,4 +1,4 @@
-class Medium_ValidSudoku {
+class Solution {
     public boolean isValid(char[][] board,int row,int col,char ch){
         //horizontal
         for(int c=0;c<board.length;c++){
