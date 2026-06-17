@@ -1,4 +1,4 @@
-class Medium_ReverseInteger {
+class Solution {
     public int reverse(int x) {
         int temp,n,d,rev=0;
         if(!((x<=Integer.MAX_VALUE)&& (x>=Integer.MIN_VALUE))){
