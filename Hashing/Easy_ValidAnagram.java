@@ -1,5 +1,4 @@
-import java.util.Arrays;
-class Easy_ValidAnagram {
+class Solution {
     int freq1[]=new int[26];
     int freq2[]=new int[26];
     public void storeCharFreqFirst(String s){
