@@ -1,4 +1,4 @@
-class Easy_NumberOf1Bits {
+class Solution {
     public int hammingWeight(int n) {
         int count=0;
         while(n>0){
