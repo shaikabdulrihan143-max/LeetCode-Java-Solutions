@@ -1,4 +1,4 @@
-class Medium_Combinations {
+class Solution {
     public void helper(List<Integer> values,int k,List<List<Integer>> ans,List<Integer> combination,int idx){
         if(combination.size()==k){
             ans.add(new ArrayList<>(combination));
