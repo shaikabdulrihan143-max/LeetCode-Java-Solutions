@@ -1,4 +1,4 @@
-class Hard_BruteForcePermutationSequence {
+class Solution {
     //Time complexity O(n!)
     // just for basic understanding of recursion and backtracking
     // runs in leetcode successfully
