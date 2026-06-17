@@ -1,4 +1,4 @@
-class Hard_SudokuSolver {
+class Solution {
     public boolean isSafe(char[][] board,int row,char ch,int col){
         //horizontal
         for(int c=0;c<board.length;c++){
