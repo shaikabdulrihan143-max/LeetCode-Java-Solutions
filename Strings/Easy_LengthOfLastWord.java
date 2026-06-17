@@ -1,4 +1,4 @@
-class Easy_LengthOfLastWord {
+class Solution {
     public int lengthOfLastWord(String s) {
         String str=s.trim();
         String arr[]=s.split("\\s+");
