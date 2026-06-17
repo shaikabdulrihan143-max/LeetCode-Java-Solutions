@@ -1,4 +1,4 @@
-class Medium_PartitionArrayAccordingToGivenPivot {
+class Solution {
 
     public int[] pivotArray(int[] nums, int pivot) {
         int idx=0;
