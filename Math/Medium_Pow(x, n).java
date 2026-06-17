@@ -1,4 +1,4 @@
-class Medium_Pow(x, n) {
+class Solution {
     public double myPow(double x, int n) {
         long N=n;
         if(N<0){
