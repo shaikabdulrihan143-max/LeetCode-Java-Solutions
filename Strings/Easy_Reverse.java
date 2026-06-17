@@ -1,4 +1,4 @@
-class Easy_Reverse {
+class Solution {
     public void reverseString(char[] s) {
         char[] result = new char[s.length];
         int idx = 0;
