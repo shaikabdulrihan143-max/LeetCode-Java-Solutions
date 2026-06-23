@@ -1,3 +1,5 @@
+//Time Complexity:O(n)
+//Concept oF Bucket(Best Optimal Solution)
 class Solution {
     public int singleNumber(int[] nums) {
         int ones=0;
